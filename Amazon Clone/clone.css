@@ -1,8 +1,9 @@
 *{
     margin: 0;
-    font-family: arial;
-    border: border-box;
+    font-family: Arial;
+    box-sizing: border-box; /* Corrected property */
 }
+
 /* Top most header = navbar */
 .navbar{
     height: 60px;
