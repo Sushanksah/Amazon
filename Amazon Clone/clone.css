@@ -248,7 +248,7 @@ ul a{
 
 /* amazon logo */
 .logo{
-    ackground-image: url("Image/amazon_logo.png");
+    background-image: url("Image/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
